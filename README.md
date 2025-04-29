@@ -5,8 +5,8 @@
 Я тестировщик ручного и автоматизированного тестирования (Pytest + Selenium). Активно углубляю свои знания Python, SQL. Участвую в краудфандинговых и Open Source проектах тестирования. 
 <br><br>
 ## Связаться со мной
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IlyaSin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilsinyakov@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/QA_tester5)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maxritterr@gmail.com)
 <br><br>
 ## Языки и инструменты
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
