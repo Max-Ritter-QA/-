@@ -5,8 +5,13 @@
 Я тестировщик ручного и автоматизированного тестирования (Pytest + Selenium). Активно углубляю свои знания Python, SQL. Постоянно слежу за новыми технологиями, методами и инструментами, связанными с тестированием, чтобы быть в курсе последних тенденций и применять их в практической работе.
 <br><br>
 ## Связаться со мной
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdzaWF4OW9oYTVtYWQzOWNudWdiZmx6d2JnZ3BycnF4Y3NhNGQwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sMGC0XjA1Hk58wppo/giphy.gif" width="100"/>
+</div>
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/QA_tester5)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxritterr@gmail.com)
+
+[//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&#41;]&#40;&#41;)
 <br><br>
 ## Языки и инструменты
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
