@@ -27,19 +27,12 @@
 
 ### :man_technologist:  Обо мне :
 Я тестировщик ручного и автоматизированного тестирования (Pytest + Selenium) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> . 
-- :telescope: Активно углубляю свои знания Python, SQL. Постоянно слежу за новыми технологиями, методами и инструментами, связанными с тестированием, чтобы быть в курсе последних тенденций и применять их в практической работе.
+- :open_book: Активно углубляю свои знания Python, SQL. 
+- :telescope: Постоянно слежу за новыми технологиями, методами и инструментами, связанными с тестированием, чтобы быть в курсе последних тенденций и применять их в практической работе.
+- :mountain_snow: Способен преодолевать сложности и решать проблемы в короткие сроки.
+- :men_wrestling: Умею работать как самостоятельно, так и в команде.
 <br><br>
 
-
-
-
-  
-[//]: # ([![Telegram]&#40;https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9&#41;]&#40;https://t.me/QA_tester5&#41;)
-
-[//]: # ([![Gmail]&#40;https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&#41;]&#40;mailto:maxritterr@gmail.com&#41;)
-
-[//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&#41;]&#40;&#41;)
-<br><br>
 ## Языки и инструменты
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Qase Badge](https://img.shields.io/badge/Qase-4F46DC?logo=qase&logoColor=fff&style=for-the-badge)
