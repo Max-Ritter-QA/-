@@ -18,11 +18,13 @@
 <h1>
   Привет, меня зовут Максим.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      Я джуниор-тестировщик, ищу удаленную работу(стажировку).
 </h1>
 <br><br>
 
-## Обо мне
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+### :man_technologist: About Me :
 Я тестировщик ручного и автоматизированного тестирования (Pytest + Selenium). Активно углубляю свои знания Python, SQL. Постоянно слежу за новыми технологиями, методами и инструментами, связанными с тестированием, чтобы быть в курсе последних тенденций и применять их в практической работе.
 <br><br>
 
