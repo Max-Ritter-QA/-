@@ -6,10 +6,25 @@
 <br><br>
 ## Связаться со мной
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdzaWF4OW9oYTVtYWQzOWNudWdiZmx6d2JnZ3BycnF4Y3NhNGQwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sMGC0XjA1Hk58wppo/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNjbTV1ZXhwemN1am95bzRqd293YjQyM3oyMmxjYndqYXZ4NXAwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CLasnMB6qjgO2L5Zbz/giphy.gif" width="100"/>
 </div>
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/QA_tester5)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxritterr@gmail.com)
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/QA_tester5">
+    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:maxritterr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+
+  
+[//]: # ([![Telegram]&#40;https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9&#41;]&#40;https://t.me/QA_tester5&#41;)
+
+[//]: # ([![Gmail]&#40;https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&#41;]&#40;mailto:maxritterr@gmail.com&#41;)
 
 [//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&#41;]&#40;&#41;)
 <br><br>
