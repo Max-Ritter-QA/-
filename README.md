@@ -2,7 +2,7 @@
 Я джуниор-тестировщик, ищу удаленную работу(стажировку).
 <br><br>
 ## Обо мне
-Я тестировщик ручного и автоматизированного тестирования (Pytest + Selenium). Активно углубляю свои знания Python, SQL.Постоянно слежу за новыми технологиями, методами и инструментами, связанными с тестированием, чтобы быть в курсе последних тенденций и применять их в практической работе.
+Я тестировщик ручного и автоматизированного тестирования (Pytest + Selenium). Активно углубляю свои знания Python, SQL. Постоянно слежу за новыми технологиями, методами и инструментами, связанными с тестированием, чтобы быть в курсе последних тенденций и применять их в практической работе.
 <br><br>
 ## Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/QA_tester5)
@@ -31,6 +31,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
