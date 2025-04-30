@@ -63,7 +63,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br><br>
 
-### Проекты
+### :books: Проекты :
 |№|Ссылка|Описание|Инструменты|
 |-|-|-|-|
 |1|[Iced Latte](https://github.com/Sunagatov/Iced-Latte-QA)|Разработка онлайн-магазина Iced Latte. Open Source проект. Создание тест-кейсов, разработка pytest-автотестов, ручное тестирование, оформление баг-репортов. Тестирование UI и API. Ревью требований. Определение стратегии тестирования.|<ul><li>pytest, Selenium - разработка автотестов </li><li>Jira - Kanban-доска, таск-трекер</li><li>Git - контрибуция</li><li>Github Issues - баг-трекинг</li><li>Docker - развертывание инфраструктуры</li><li>PosgreSQL - база данных</li>|
