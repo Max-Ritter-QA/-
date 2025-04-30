@@ -33,7 +33,7 @@
 - :men_wrestling: Умею работать как самостоятельно, так и в команде.
 <br><br>
 
-## Языки и инструменты
+### :hammer_and_wrench: Инструменты и языки :
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Qase Badge](https://img.shields.io/badge/Qase-4F46DC?logo=qase&logoColor=fff&style=for-the-badge)
 <img src=https://chlist.sitechco.ru/img/logo1z.png height=28>
