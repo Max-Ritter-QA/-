@@ -47,21 +47,23 @@
 ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)
 <img src="https://i6.imageban.ru/out/2024/01/05/66ffd33f1fb9bbeee1f7b55e879a9d3a.png" height=30>
 <br>
-<img src="https://i7.imageban.ru/out/2024/01/05/1853bcb172744fa83ed68ce75a32ac93.png" height=30>
 ![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=for-the-badge)
 <br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=python&logoColor=white&style=for-the-badge)
+![Allure](https://img.shields.io/badge/Allure-3E4E88?logo=allure&logoColor=white&style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
 <br>
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=jetbrains&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br><br>
-## Проекты
+
+### Проекты
 |№|Ссылка|Описание|Инструменты|
 |-|-|-|-|
 |1|[Iced Latte](https://github.com/Sunagatov/Iced-Latte-QA)|Разработка онлайн-магазина Iced Latte. Open Source проект. Создание тест-кейсов, разработка pytest-автотестов, ручное тестирование, оформление баг-репортов. Тестирование UI и API. Ревью требований. Определение стратегии тестирования.|<ul><li>pytest, Selenium - разработка автотестов </li><li>Jira - Kanban-доска, таск-трекер</li><li>Git - контрибуция</li><li>Github Issues - баг-трекинг</li><li>Docker - развертывание инфраструктуры</li><li>PosgreSQL - база данных</li>|
