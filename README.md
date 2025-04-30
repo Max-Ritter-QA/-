@@ -19,6 +19,14 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Max-Ritter-QA&style=flat-square&color=blue" alt=""/>
+</div>
+<h1>
+  Привет, меня зовут Максим.
+  Я джуниор-тестировщик, ищу удаленную работу(стажировку).
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
   
