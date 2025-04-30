@@ -15,7 +15,7 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Max-Ritter-QA&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
+<h1 align="center" >
   Привет, меня зовут Максим.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
